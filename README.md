@@ -10,7 +10,7 @@ Ce projet vise à :
 - Construire un modèle de **Machine Learning** capable de **prédire automatiquement** si un tweet est lié à une catastrophe réelle ou non.
 - Utiliser des techniques de **traitement du langage naturel (NLP)** pour améliorer la détection automatique.
 
-🔍 Pour cela, nous utilisons un **jeu de données annoté** provenant de la compétition Kaggle suivante :  
+🔍 Pour cela, j'utilise un **jeu de données annoté** provenant de la compétition Kaggle suivante :  
 👉 [NLP with Disaster Tweets - Kaggle](https://www.kaggle.com/competitions/nlp-getting-started/overview)
 
 ---
